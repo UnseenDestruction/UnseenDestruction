@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geric</h1>
-<h3 align="center">I am a hardworking Full Stack Developer From Philipines for 5 years</h3>
+<h3 align="center"> Full Stack Developer </h3>
 
 <div align="center">
  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
